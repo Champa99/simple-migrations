@@ -2,7 +2,8 @@
   "name": "simple-migrations",
   "version": "1.0.0",
   "description": "Simple migration manager tool for Node JS",
-  "main": "index.js",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
