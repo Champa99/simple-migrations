@@ -1,0 +1,34 @@
+{
+  "name": "simple-migrations",
+  "version": "1.0.0",
+  "description": "Simple migration manager tool for Node JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Champa99/simple-migrations.git"
+  },
+  "keywords": [
+    "migrations",
+    "nodejs",
+    "database",
+    "db",
+    "mysql"
+  ],
+  "prepublish": "tsc",
+  "author": "Champa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Champa99/simple-migrations/issues"
+  },
+  "homepage": "https://github.com/Champa99/simple-migrations#readme",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.176"
+  }
+}
