@@ -1,0 +1,16 @@
+{
+    "connection": {
+        "host": "127.0.0.1",
+        "user": "root",
+        "password": "",
+        "database": "simpmig",
+        "port": 3306
+    },
+    "database": {
+        "engine": "",
+        "charset": "",
+        "collation": ""
+    },
+    "migrationsFolder": "./migrations",
+    "logQueries": true
+}
